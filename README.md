@@ -1,7 +1,7 @@
 DirectToxy
 ===
 
-Tox client for Windows.
+Tox client for Windows. This is a fork from Alexander Bakker Toxy Client (https://github.com/alexbakker/Toxy).
 
 Compiling
 ===

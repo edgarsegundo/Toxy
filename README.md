@@ -1,7 +1,7 @@
 DirectToxy
 ===
 
-DirectTox client for Windows.
+Tox client for Windows.
 
 Compiling
 ===
